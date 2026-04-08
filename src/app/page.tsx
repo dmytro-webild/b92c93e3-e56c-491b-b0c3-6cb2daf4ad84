@@ -58,45 +58,45 @@ export default function LandingPage() {
       description="Professional, patient training that gets real results — first time."
       leftCarouselItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/female-biker-repairing-motorbike_273609-5503.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/female-biker-repairing-motorbike_273609-5503.jpg?_wi=1",
           imageAlt: "Instructor guiding student",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/cyclist-riding-bmx-bike_107420-65687.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cyclist-riding-bmx-bike_107420-65687.jpg?_wi=1",
           imageAlt: "Training motorcycle",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/female-biker-repairing-motorbike_273609-5503.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/female-biker-repairing-motorbike_273609-5503.jpg?_wi=2",
           imageAlt: "Instructor guiding student",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/cyclist-riding-bmx-bike_107420-65687.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cyclist-riding-bmx-bike_107420-65687.jpg?_wi=2",
           imageAlt: "Training motorcycle",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/female-biker-repairing-motorbike_273609-5503.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/female-biker-repairing-motorbike_273609-5503.jpg?_wi=3",
           imageAlt: "Instructor guiding student",
         },
       ]}
       rightCarouselItems={[
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/cyclist-riding-bmx-bike_107420-65687.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cyclist-riding-bmx-bike_107420-65687.jpg?_wi=3",
           imageAlt: "Training motorcycle",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/female-biker-repairing-motorbike_273609-5503.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/female-biker-repairing-motorbike_273609-5503.jpg?_wi=4",
           imageAlt: "Instructor guiding student",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/cyclist-riding-bmx-bike_107420-65687.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cyclist-riding-bmx-bike_107420-65687.jpg?_wi=4",
           imageAlt: "Training motorcycle",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/female-biker-repairing-motorbike_273609-5503.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/female-biker-repairing-motorbike_273609-5503.jpg?_wi=5",
           imageAlt: "Instructor guiding student",
         },
         {
-          imageSrc: "http://img.b2bpic.net/free-photo/cyclist-riding-bmx-bike_107420-65687.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/cyclist-riding-bmx-bike_107420-65687.jpg?_wi=5",
           imageAlt: "Training motorcycle",
         },
       ]}
@@ -187,7 +187,7 @@ export default function LandingPage() {
           tags: [
             "Full Course",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/data-stats-around-person-doing-physical-activity_23-2150165164.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/data-stats-around-person-doing-physical-activity_23-2150165164.jpg?_wi=1",
         },
         {
           id: "f2",
@@ -195,7 +195,7 @@ export default function LandingPage() {
           tags: [
             "Start from zero",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-cool-old-woman-with-motorbike_23-2150647794.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-cool-old-woman-with-motorbike_23-2150647794.jpg?_wi=1",
         },
         {
           id: "f3",
@@ -203,7 +203,7 @@ export default function LandingPage() {
           tags: [
             "Pass First Time",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/positive-woman-velvet-cap-eyeglasses-dreamily-poses-with-bicycle_197531-23813.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/positive-woman-velvet-cap-eyeglasses-dreamily-poses-with-bicycle_197531-23813.jpg?_wi=1",
         },
         {
           id: "f4",
@@ -211,7 +211,7 @@ export default function LandingPage() {
           tags: [
             "Stay Safe",
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-boy-hand-riding-bicycle-photo-is-focused-nearest-hand_1150-6087.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-boy-hand-riding-bicycle-photo-is-focused-nearest-hand_1150-6087.jpg?_wi=1",
         },
       ]}
       title="Professional Training Services"
@@ -232,35 +232,35 @@ export default function LandingPage() {
           name: "Sarah J.",
           handle: "@sarahrides",
           testimonial: "The most patient instructor I've ever had. Passed first time!",
-          imageSrc: "http://img.b2bpic.net/free-photo/positive-woman-velvet-cap-eyeglasses-dreamily-poses-with-bicycle_197531-23813.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/positive-woman-velvet-cap-eyeglasses-dreamily-poses-with-bicycle_197531-23813.jpg?_wi=2",
         },
         {
           id: "t2",
           name: "Mike D.",
           handle: "@miked99",
           testimonial: "Incredible structure and clear feedback. Highly recommended.",
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-cool-old-woman-with-motorbike_23-2150647794.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-cool-old-woman-with-motorbike_23-2150647794.jpg?_wi=2",
         },
         {
           id: "t3",
           name: "Alex R.",
           handle: "@alexrider",
           testimonial: "Went from zero experience to fully licenced in weeks.",
-          imageSrc: "http://img.b2bpic.net/free-photo/closeup-boy-hand-riding-bicycle-photo-is-focused-nearest-hand_1150-6087.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/closeup-boy-hand-riding-bicycle-photo-is-focused-nearest-hand_1150-6087.jpg?_wi=2",
         },
         {
           id: "t4",
           name: "Chloe B.",
           handle: "@chloebikes",
           testimonial: "The refresher lessons gave me the boost I needed to be safe on the road.",
-          imageSrc: "http://img.b2bpic.net/free-photo/data-stats-around-person-doing-physical-activity_23-2150165164.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/data-stats-around-person-doing-physical-activity_23-2150165164.jpg?_wi=2",
         },
         {
           id: "t5",
           name: "James P.",
           handle: "@jp_moto",
           testimonial: "Professional, knowledgeable, and genuinely fun training.",
-          imageSrc: "http://img.b2bpic.net/free-photo/side-view-cool-old-woman-with-motorbike_23-2150647794.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/side-view-cool-old-woman-with-motorbike_23-2150647794.jpg?_wi=3",
         },
       ]}
     />
